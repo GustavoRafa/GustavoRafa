@@ -1,4 +1,4 @@
-### Olá, eu sou o Gustavo Rafá, e estou em busca de me desenvolver na área de tecnologia 🖐️
+### Olá, eu sou o Gustavo Rafá, e estou em busca de me desenvolver na área de tecnologia
 #
 ### Tecnologias que mais uso!
 
